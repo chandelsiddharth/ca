@@ -1,0 +1,129 @@
+.fa{
+  background-color: #3b5998;
+  font-size: 23px;
+  height: 82px;
+  min-width: 980px;
+  margin:0;
+  padding-left: 250px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-family: 'Noto Sans TC', sans-serif;
+  color: #fff;
+
+
+}
+body{
+  padding: 0;
+  margin: 0;
+  font-family: inherit;
+}
+
+.book{
+  margin:50px;
+  padding-left: 80px;
+  font-size: 23px;
+  line-height:29px;
+  font-weight:bold;
+  padding-right: 800px;
+}
+.img{
+  padding-left: 80px;
+}
+
+.tom{
+position: absolute;
+  left: 800px;
+  top:20px;
+  font-family: 'Roboto', sans-serif;
+  color:#fff;
+  font-size: 15px;
+  size:10
+}
+.login{
+  top:15px;
+}
+
+span{
+position: absolute;
+left: 800px;
+top: 120px;
+font-size: 40px;
+font-style: normal;
+font-family: 'Montserrat', sans-serif;
+font-weight:600;
+}
+.easy{
+  position: absolute;
+  left: 800px;
+  top: 175px;
+  font-size: 20px;
+}
+.register{
+  position: absolute;
+  left: 800px;
+  top: 200px;
+  padding: 10px 15px;
+  display: block;
+  border-radius: 5px;
+
+}
+input{
+  padding: 10px 12px;
+  border-radius: 5px;
+font-size: 18px;
+}
+.mobile{
+  position: absolute;
+  left: 800px;
+  top: 260px;
+  padding: 10px 15px;
+
+}
+.pass{
+  position: absolute;
+  left: 800px;
+  top: 312px;
+  padding: 10px 15px;
+}
+.form{
+  position: absolute;
+  left: 810px;
+  top: 370px;
+}
+select{
+  padding: 5px;
+  height:30px
+}
+h3{
+  color: #90949c;
+  font-family: 'Montserrat' , sans-serif;
+  display: block;
+}
+.gender{
+  position: absolute;
+  left: 810px;
+  top: 480px;
+}
+.text{
+  position: absolute;
+left: 810px;
+top: 560px;
+color: #90949c;
+margin-right: 185px;
+}
+.btn{
+  position: absolute;
+left: 810px;
+top: 680px;
+}
+
+.hh{
+  font-weight: bold;
+  font-size:18px;
+  padding: 10px 60px;
+  background: linear-gradient(#67ae55, #578843);
+      background-color: #69a74e;
+      box-shadow: inset 0 1px 1px #a4e388;
+      border-color: #3b6e22 #3b6e22 #2c5115;
+color: #fff;
+}
